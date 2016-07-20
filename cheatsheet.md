@@ -29,13 +29,13 @@
 * TD has discretion to wait 4 ball searches
 * TD has discretion to nudge ball
 * Ball in non-auto shooter lane considered stuck
-* Can't intentionally cause ball search - ??
 
 # Intentional Ball Trap
 * Legal if trap can be released by player action (i.e not nudge/shake)
 
 # Player gets a 0
 * Stuck ball during multi-ball : warning and/or 0?
+* Can't intentionally cause ball search - player gets 0?
 * Use feature to trap ball : warning and/or 0? 
 * Tilt through 
   * TD can rule otherwise based on machine history
