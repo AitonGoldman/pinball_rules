@@ -29,12 +29,6 @@
 * TD has discretion to wait 4 ball searches
 * TD has discretion to nudge ball
 * Ball in non-auto shooter lane considered stuck
-* Stuck balls that would have hit a kickback
-  * Kickback is trigerred and ball is considered a stuck ball
-  * Does NOT include manually triggered kickback devices
-* Stuck ball during multiball
-  * Player must make effort to "gain control"
-  * Alert TD
 * Can't intentionally cause ball search - ??
 
 # Intentional Ball Trap
@@ -102,6 +96,12 @@
   * goes on flipper or shooter (td discretion) or other feature if none of that works
 * Multiball stuck ball
   * goes on single flipper ( or shooter if it can't go on flippers )
+* Stuck balls that would have hit a kickback
+  * Kickback is trigerred and ball is considered a stuck ball
+  * Does NOT include manually triggered kickback devices
+* Stuck ball during multiball
+  * Player must make effort to "gain control"
+  * Alert TD
 
 # Immediate Drain
 * Drain not registered/ball goes to shooter lane
