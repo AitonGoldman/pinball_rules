@@ -53,6 +53,7 @@
 * catastrophic failure 
 * beneficial malfunction is discovered and repaired
   * player's current score is voided and that player starts a new game
+  * ...unless all players/TD agree on suitable adjustment
 * machine is borked and can't be opened
 * unintentional interference
 * Wrong number of players
