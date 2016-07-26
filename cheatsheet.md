@@ -53,8 +53,9 @@
 # Restart Game
 * catastrophic failure 
 * beneficial malfunction is discovered and repaired
-  * player's current score is voided and that player starts a new game
+  * players current score is voided and treated as cata failure 
   * ...unless all players/TD agree on suitable adjustment
+  * TD decides if the machine should be declared disabled
 * machine is borked and can't be opened
 * unintentional interference
 * Wrong number of players
