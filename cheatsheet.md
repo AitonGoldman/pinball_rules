@@ -34,6 +34,7 @@
 * Legal if trap can be released by player action (i.e not nudge/shake)
 
 # Player gets a 0
+* take advantage of bene malfunction
 * Stuck ball during multi-ball : warning and/or 0?
 * Can't intentionally cause ball search - player gets 0?
 * Use feature to trap ball : warning and/or 0? 
@@ -61,6 +62,7 @@
 
 
 # Nothing Happens
+* Players plays player 2/4 on a game where players player 1/3
 * No loss of ball/No signifigant benefit (minor)
 * if minors are posted on machine
 * player looses some balls during multiball
