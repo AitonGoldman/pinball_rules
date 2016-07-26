@@ -20,20 +20,20 @@
   * same rules wrt dibs by higher seeded groups
 * Players may ask scorekeeper to start games
 
-# Delays
+# Delays (3)
 * 30 seconds - unless env inconvience (expected resolved quickly)
 * 3 minutes to "return to machine" after game starts
 * 10 minutes to make it to start of session
 
-# Stuck Balls
+# Stuck Balls (3)
 * TD has discretion to wait 4 ball searches
 * TD has discretion to nudge ball
 * Ball in non-auto shooter lane considered stuck
 
-# Intentional Ball Trap
+# Intentional Ball Trap (1)
 * Legal if trap can be released by player action (i.e not nudge/shake)
 
-# Player gets a 0
+# Player gets a 0 (9)
 * take advantage of bene malfunction
 * Stuck ball during multi-ball : warning and/or 0?
 * Can't intentionally cause ball search - player gets 0?
@@ -50,7 +50,7 @@
   * original player can take "major malfunction"
   * score played by out of turn player is kept
 
-# Restart Game
+# Restart Game (5)
 * catastrophic failure 
 * beneficial malfunction is discovered and repaired
   * players current score is voided and treated as cata failure 
@@ -62,7 +62,7 @@
   * can't add players once player 1 has plunged, can't play single player game
 
 
-# Nothing Happens
+# Nothing Happens (6)
 * Players plays player 2/4 on a game where players player 1/3
 * No loss of ball/No signifigant benefit (minor)
 * if minors are posted on machine
@@ -72,7 +72,7 @@
   * improper ball save, ball comes to rest on kickback 
 * Dirty Pool ( if it is recognized by the game ) is legal
 
-# Player gets an extra ball in a new game
+# Player gets an extra ball in a new game (5)
 * multiple minors occur, could be considered a major
 * loss of ball (not during multiball) when not design of the game
 * flipper failure
@@ -81,7 +81,7 @@
   * TD nudge with stuck ball
 * unintentional interference
 
-# Dealing with Major/Catastrophic
+# Dealing with Major/Catastrophic (3)
 * player can decline major malfunction compensation
   * if it doesn't give an advantage to do so
 * player gets new ball in new game (if possible)
@@ -95,19 +95,18 @@
   * in progress balls from the old game can be replayed
   * add old scores to new
 
-# Ball moved to flipper/plunger
+# Ball moved to flipper/plunger (3)
 * Non-multiball stuck ball
   * goes on flipper or shooter (td discretion) or other feature if none of that works
 * Multiball stuck ball
+  * Player must make effort to "gain control"
+  * Alert TD 
   * goes on single flipper ( or shooter if it can't go on flippers )
 * Stuck balls that would have hit a kickback
   * Kickback is trigerred and ball is considered a stuck ball
   * Does NOT include manually triggered kickback devices
-* Stuck ball during multiball
-  * Player must make effort to "gain control"
-  * Alert TD
 
-# Immediate Drain
+# Immediate Drain (3)
 * Drain not registered/ball goes to shooter lane
 * Ball that comes to rest in an outlane
   * player can try to free it
