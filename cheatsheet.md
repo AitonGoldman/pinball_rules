@@ -98,9 +98,10 @@
 # special scoring (4 )
 * receive max score if reached
 * roll overs must be witnessed by other players or TD
-
 * fast break has special rules
-* ems - scoring reels don't work - must be top two reels - if problem is not repeatable, nothing happens
+* ems scoring reels don't work
+  * must be top two reels
+  * if problem is not repeatable, and there is no obvious way to adjust score,  nothing happens
 # Ball moved to flipper/plunger (3)
 * Non-multiball stuck ball
   * goes on flipper or shooter (td discretion) or other feature if none of that works
